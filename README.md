@@ -6,3 +6,4 @@ public String index(){
 ​	return "ok";
 
 }by cncounter
+publie String test(){}
